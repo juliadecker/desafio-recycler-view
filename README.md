@@ -34,6 +34,9 @@ Ele funciona em fases e ciclos, chamadas de sprints. O método se inicia com o p
 O Product Owner é o líder do projeto, responsável por obter o máximo valor possível a pouco custo. Também é ele quem inicia o planejamento do projeto e entende as demandas dos clientes da empresa.
 
 4. O que é Git?
+
+Git é um sistema usado para controlar versões e históricos de alterações de arquivos e códigos-fonte, principalmente de projetos de desenvolvimento de softwares.
+
 5. Qual o comando para criação de um novo repositório no Git?
 6. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um
 comando. Qual é esse comando?
