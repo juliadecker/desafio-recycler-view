@@ -56,5 +56,8 @@ de um outro branch ao seu branch ativo?
 Para atualizar um repositório local é utilizado o “git pull” e para fazer merge o “git merge”
 
 9. Qual a diferença entre git e github?
+
+A diferença é que git é um software utilizado para rastrear mudanças feitas em um código, enquanto o github é um serviço de hospedagem.
+
 10. Conta pra gente como foi sua experiência na Sprint#02 do programa de bolsa
 @Android e quais suas expectativas a partir de agora:
