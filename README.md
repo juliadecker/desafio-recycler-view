@@ -52,6 +52,9 @@ Branch master é a ramificação principal do projeto no repositório do Git. El
 
 8. Quais são os comandos usados para atualizar um repositório local e fazer merge
 de um outro branch ao seu branch ativo?
+
+Para atualizar um repositório local é utilizado o “git pull” e para fazer merge o “git merge”
+
 9. Qual a diferença entre git e github?
 10. Conta pra gente como foi sua experiência na Sprint#02 do programa de bolsa
 @Android e quais suas expectativas a partir de agora:
