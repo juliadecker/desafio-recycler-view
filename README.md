@@ -38,6 +38,9 @@ O Product Owner é o líder do projeto, responsável por obter o máximo valor p
 Git é um sistema usado para controlar versões e históricos de alterações de arquivos e códigos-fonte, principalmente de projetos de desenvolvimento de softwares.
 
 5. Qual o comando para criação de um novo repositório no Git?
+
+O comando usado para criar um novo repositório é “git init”.
+
 6. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um
 comando. Qual é esse comando?
 7. O que é a Branch master e para que serve?
