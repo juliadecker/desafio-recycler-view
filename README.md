@@ -61,3 +61,6 @@ A diferença é que git é um software utilizado para rastrear mudanças feitas 
 
 10. Conta pra gente como foi sua experiência na Sprint#02 do programa de bolsa
 @Android e quais suas expectativas a partir de agora:
+
+O final da sprint 2, com o desafio, foi bastante corrido e complicado, especialmente porque não tínhamos aprendido alguns conteúdos importantes, como Fragments, e o fim de semana precisou ser usado em função da realização do desafio. Por outro lado, achei que os conteúdos dos cursos da Alura foram bem aproveitados nessa atividade, foi ótimo para colocar o conhecimento em prática e rever o que não ficou bem entendido.
+
