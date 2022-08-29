@@ -47,6 +47,9 @@ comando. Qual é esse comando?
 O comando para adicionar mudanças é “git add”.
 
 7. O que é a Branch master e para que serve?
+
+Branch master é a ramificação principal do projeto no repositório do Git. Ela serve para que seja possível criar branches secundárias, para organizar o repositório.
+
 8. Quais são os comandos usados para atualizar um repositório local e fazer merge
 de um outro branch ao seu branch ativo?
 9. Qual a diferença entre git e github?
