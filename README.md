@@ -43,6 +43,9 @@ O comando usado para criar um novo repositório é “git init”.
 
 6. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um
 comando. Qual é esse comando?
+
+O comando para adicionar mudanças é “git add”.
+
 7. O que é a Branch master e para que serve?
 8. Quais são os comandos usados para atualizar um repositório local e fazer merge
 de um outro branch ao seu branch ativo?
