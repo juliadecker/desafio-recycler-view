@@ -19,3 +19,21 @@ Requisitos :
 
 Bonus :
 - Usar databinding https://developer.android.com/topic/libraries/data-binding
+
+**Questões Escritas**
+1. Para que serve o método Scrum?
+
+O método Scrum serve para que um projeto seja desenvolvido com mais foco, agilidade e qualidade, além de potencializar o trabalho em equipe.
+
+2. Como funciona o método Scrum?
+3. O que é um scrum Product Owner?
+4. O que é Git?
+5. Qual o comando para criação de um novo repositório no Git?
+6. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um
+comando. Qual é esse comando?
+7. O que é a Branch master e para que serve?
+8. Quais são os comandos usados para atualizar um repositório local e fazer merge
+de um outro branch ao seu branch ativo?
+9. Qual a diferença entre git e github?
+10. Conta pra gente como foi sua experiência na Sprint#02 do programa de bolsa
+@Android e quais suas expectativas a partir de agora:
